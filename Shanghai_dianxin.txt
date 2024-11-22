@@ -96,5 +96,5 @@
 180.165.221.102:3000
 139.196.53.239:4022
 223.167.77.145:4022
-www.rogerxlj.top:9998
-vpn.rogerxlj.top:9998
+http://www.rogerxlj.top:9998
+http://vpn.rogerxlj.top:9998
