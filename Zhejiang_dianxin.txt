@@ -1,3 +1,4 @@
+122.233.34.185:4022
 synoinstall-q9qd8k6mjgz4av1y.direct.quickconnect.to:9999
 183.156.122.171:4022
 122.231.66.216:4022
