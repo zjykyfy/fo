@@ -20,8 +20,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ ip }}
-        release_name: Release ${{ Zhejiang_dianxin.txt }}
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
         body: |
           Changes in this release:
           - Bulleted list of changes
